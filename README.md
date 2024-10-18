@@ -122,5 +122,5 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{DilumCA}/count.svg" alt="DilumCA :: Visitor's Count" /></p>
 
-
+![snake gif](https://github.com/DilumCA/DilumCA/blob/output/github-contribution-grid-snake.svg)
 
