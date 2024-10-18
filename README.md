@@ -122,8 +122,13 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{DilumCA}/count.svg" alt="DilumCA :: Visitor's Count" /></p>
 
+<div align="center">
 
-## Watch snake eating my GitHub contributions
+<br>
+  
+##  Watch snake eating my GitHub contributions
+
+</div>
 
 <div align="center">
     <picture align="center">
