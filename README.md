@@ -122,5 +122,13 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{DilumCA}/count.svg" alt="DilumCA :: Visitor's Count" /></p>
 
-![snake gif](https://github.com/DilumCA/DilumCA/blob/output/github-contribution-grid-snake.svg)
 
+## Watch snake eating my GitHub contributions
+
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DilumCA/DilumCA/main/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
