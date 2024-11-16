@@ -126,19 +126,19 @@
 
 <br>
   
-##  Watch snake eating my GitHub contributions
+
 
 </div>
 
 
 
-<div align="center">
+<!-- <div align="center">
     <picture align="center">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake-light.svg"> <!-- Light theme -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake-dark.svg"> <!-- Dark theme -->
-      <img alt="github contribution grid snake animation" src="https://github.com/DilumCA/DilumCA/blob/output/github-contribution-grid-snake.gif"> <!-- Fallback -->
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake-light.svg"> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake-dark.svg">
+      <img alt="github contribution grid snake animation" src="https://github.com/DilumCA/DilumCA/blob/output/github-contribution-grid-snake.gif"> 
     </picture>
-</div>
+</div> -->
 
 
 
