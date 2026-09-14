@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilum Andradi</h1>
-<h3 align="center">A passionate Web developer from Sri Lanka</h3>
+<h3 align="center">IT & Management graduate from Sri Lanka</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -35,14 +35,14 @@
 
 <br>
 
-- 🔭 **Currently working on:** MIS for a Mould-making Company
-- 🌱 **Learning:** Spring Boot and AWS
-- 💻 **Tech Stack:** React, MongoDB, Node.js, Spring Boot, and Material-UI
-- 🤖 **Exploring:** AI and machine learning for sustainability and process optimization
-- 🏆 **Hackathon Enthusiast:** Enjoy building innovative solutions under time constraints
-- 📫 **Contact Me:** [dilumandradi@gmail.com](mailto:dilumandradi@gmail.com)
-- 🎓 **Education:** Pursuing a degree in Information Technology Management with projects like Intern Management Systems and daycare solutions
-- 🧑‍💼 **Career Goal:** Seeking software engineering internships to enhance my skills and experience
+- 🎓 **Background:** B.Sc. (Hons) in Information Technology and Management, University of Moratuwa
+- 💼 **Experience:** Six months as a software engineering intern at SLT-Mobitel, plus an operations platform built and delivered to a manufacturing client
+- 💻 **Build with:** Java, JavaScript, Python, React, Node.js, Spring Boot, MongoDB, MySQL
+- 🧪 **Also work in:** test automation (Playwright, Cucumber, Serenity BDD) and cloud infrastructure (AWS, Terraform)
+- 🔭 **Currently:** preparing for ISTQB Foundation Level and learning enterprise systems
+- 🤖 **Interested in:** using data and automation to solve business process problems
+- 🏆 **Hackathons:** enjoy building things under time pressure
+- 📫 **Reach me:** [dilumandradi@gmail.com](mailto:dilumandradi@gmail.com) · [Portfolio](https://portfolio-dilum.vercel.app/)
 
 
 
@@ -52,8 +52,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dilum_andradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilum_andradi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dilum andradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilum andradi" height="30" width="40" /></a>
-<a href="https://fb.com/dilum andradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilum andradi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dilumandradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilumandradi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/dilum.andradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilum andradi" height="30" width="40" /></a>
 <a href="https://instagram.com/dilum_andradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilum_andradi" height="30" width="40" /></a>
 </p>
 
@@ -103,11 +103,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
+  </a>
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
   </a>
 
-  <!-- Tools -->
+  <!-- Cloud and Tools -->
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
+  </a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
   </a>
@@ -135,8 +144,3 @@
       <img alt="github contribution grid snake animation" src="https://github.com/DilumCA/DilumCA/blob/output/github-contribution-grid-snake.gif"> 
     </picture>
 </div> -->
-
-
-
-
-
