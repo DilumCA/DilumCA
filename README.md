@@ -10,22 +10,20 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-  <br>
-  
-
-
-| ![Dilum's github stats](https://github-readme-stats.vercel.app/api?username=DilumCA&show_icons=true&theme=tokyonight) | ![Dilum GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DilumCA&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilumCA&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DilumCA&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-
-
 <br>
 
+<!-- ============================================================
+     AT A GLANCE — shields.io, no third-party stats service
+     ============================================================ -->
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/DilumCA?style=for-the-badge&logo=github&label=Followers&color=7AA2F7&labelColor=1A1B27" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDilumCA&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos&color=7AA2F7&labelColor=1A1B27" alt="Public repositories"/>
+  <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-7AA2F7?style=for-the-badge&labelColor=1A1B27" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open%20to-Graduate%20Roles-9ECE6A?style=for-the-badge&labelColor=1A1B27" alt="Open to work"/>
+</p>
 
-
+<br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -44,103 +42,100 @@
 - 🏆 **Hackathons:** enjoy building things under time pressure
 - 📫 **Reach me:** [dilumandradi@gmail.com](mailto:dilumandradi@gmail.com) · [Portfolio](https://portfolio-dilum.vercel.app/)
 
+<br clear="right">
 
+<!-- ============================================================
+     TECH STACK — static badges, these never go down
+     ============================================================ -->
 
+## 🛠 Tech Stack
 
+**Languages**
 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Testing & QA**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Serenity BDD](https://img.shields.io/badge/Serenity%20BDD-1F6FEB?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+<br>
+
+<!-- ============================================================
+     FEATURED PROJECTS
+     Replace REPO-NAME in each link with the real repository name.
+     Delete any row you don't want to show.
+     ============================================================ -->
+
+## 📌 Featured Projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **[Tool Time Management System](https://github.com/DilumCA/REPO-NAME)** | Operations platform delivered to a manufacturing client — replaced Excel-based mold tracking with master data, role-based workflows and automated reporting | React · Material UI · Spring Boot · MongoDB |
+| **[CloudMart](https://github.com/DilumCA/REPO-NAME)** | Cloud-native e-commerce platform: five containerised services on AWS EKS across a multi-AZ VPC, provisioned entirely as code | AWS (EKS, VPC, IAM) · Terraform |
+| **[Interns Management System](https://github.com/DilumCA/REPO-NAME)** | Full-stack HR platform with an evaluation workflow across four roles and permission-based reporting | React · Node.js · MongoDB |
+| **[Demand Forecasting Research](https://github.com/DilumCA/REPO-NAME)** | Zone-level electricity demand forecasting over smart meter data, with clustering, anomaly detection and a Flask dashboard | Python · scikit-learn · XGBoost · Flask |
+| **[Automated QA Suite](https://github.com/DilumCA/REPO-NAME)** | BDD test automation framework covering API and UI flows, role-based authorization and negative scenarios | Java · Cucumber · Serenity BDD · REST Assured |
+
+<br>
+
+<!-- ============================================================
+     CONNECT
+     ============================================================ -->
+
+## 🤝 Connect with me
+
 <p align="left">
-<a href="https://twitter.com/dilum_andradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilum_andradi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dilumandradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilumandradi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dilum.andradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilum andradi" height="30" width="40" /></a>
-<a href="https://instagram.com/dilum_andradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilum_andradi" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dilumandradi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dilumandradi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://portfolio-dilum.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://twitter.com/dilum_andradi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://instagram.com/dilum_andradi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
+<!-- ============================================================
+     OPTIONAL — put the stats cards back here IF you deploy your
+     own instance. Replace YOUR-INSTANCE with your Vercel domain.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Frontend Technologies -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
+| ![Stats](https://YOUR-INSTANCE.vercel.app/api?username=DilumCA&show_icons=true&theme=tokyonight) | ![Streak](https://streak-stats.demolab.com/?user=DilumCA&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=DilumCA&theme=tokyonight) | |
 
-  <!-- Backend Technologies -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-
-  <!-- Programming Languages -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-
-  <!-- Cloud and Tools -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
-  </a>
-
-</p>
-
-
-
-<br>
-
-<div align="center">
-
-<br>
-  
-
-
-</div>
-
-
-
-<!-- <div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake-light.svg"> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake-dark.svg">
-      <img alt="github contribution grid snake animation" src="https://github.com/DilumCA/DilumCA/blob/output/github-contribution-grid-snake.gif"> 
-    </picture>
-</div> -->
+     ============================================================ -->
